@@ -1,15 +1,14 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "name": "smko77.github.io",
+  "version": "1.0.0",
+  "description": "Sangmin Ko's academic website — npm build scripts for the site's JS bundle",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/smko77/smko77.github.io"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic-website"
   ],
   "contributors": [
     "Michael Rose",
@@ -17,9 +16,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/smko77/smko77.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://smko77.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
