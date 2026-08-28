@@ -1,0 +1,14 @@
+# Seminars that are co-organized and whose page lives on a co-organizer's
+# site rather than this one. Each entry is linked out to directly from
+# /seminars/. See _seminars/ for the seminars hosted on this site.
+- title: "Chromatic Homotopy Theory"
+  term: "Fall 2025"
+  term_start: 2025-09-04
+  organizers: "Azélie Picot and Carlos Alvarado"
+  external_url: "https://alvarado-alvarez.github.io/chromatic.html"
+
+- title: "Manifolds and Homotopy Theory"
+  term: "Spring 2026"
+  term_start: 2026-01-26
+  organizers: "Azélie Picot and Carlos Alvarado"
+  external_url: "https://alvarado-alvarez.github.io/manifolds.html"
