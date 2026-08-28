@@ -2,11 +2,15 @@
 permalink: /seminars/2025-spring-prismatic-cohomology
 title: "Seminar on Prismatic Cohomology (Spring 2025)"
 author_profile: true
+short_title: "Seminar on Prismatic Cohomology"
+term: "Spring 2025"
+term_start: 2025-01-28
+organizers: "Vidhu Adhihetty"
 ---
 
 The goal of this seminar is to give an introduction to prismatic cohomology, a p-adic cohomology theory developed by Bhatt and Scholze. We will mainly follow [Bha18] and [BS22]. 
 
-We will begin by going through the basic theory of delta rings, and use this theory to develop prisms and the prismatic site. This will allow us to define prismatic cohomology. From here, we will explore various comparison theorems, including Hodge-Tate, crystalline and &eacute;tale. We hope to conclude with a more topological discussion of prismatic cohomology, particulary its relations to topological Hochschild homology (THH)
+We will begin by going through the basic theory of delta rings, and use this theory to develop prisms and the prismatic site. This will allow us to define prismatic cohomology. From here, we will explore various comparison theorems, including Hodge-Tate, crystalline and &eacute;tale. We hope to conclude with a more topological discussion of prismatic cohomology, particularly its relations to topological Hochschild homology (THH).
 
 A more detailed plan of the seminar including topics for future talks and references can be found [here](/files/Learning_Seminar_Prismatic_Cohomology_Columbia.pdf). Please note that this document is still a work in progress.
 
@@ -25,16 +29,16 @@ A more detailed plan of the seminar including topics for future talks and refere
 | Date | Speaker | Title |
 | ----- | ------- | ----------- |
 | 1/28 | - | [Overview](#talk-1)  |
-| 2/4 | Vidhu Ahihetty | [Delta rings](#talk-2) |
-| 2/11 | Rafah Hajjar Munoz| [Distinguished elements and prisms](#talk-3) |
+| 2/4 | Vidhu Adhihetty | [Delta rings](#talk-2) |
+| 2/11 | Rafah Hajjar Muñoz| [Distinguished elements and prisms](#talk-3) |
 | 2/18 | Sofia Wood | [Perfect prisms and perfectoid rings](#talk-4) |
-| 2/25 | Vidhu Ahihetty | [The prismatic site](#talk-5) |
+| 2/25 | Vidhu Adhihetty | [The prismatic site](#talk-5) |
 | 3/4 | Ivan Zelich | [The Hodge-Tate and crystalline comparison theorems](#talk-6) |
 | 3/11 | Sangmin Ko | [Derived prismatic cohomology](#talk-7) |
 | 3/18 | - | Spring break |
 | 3/25 | Ivan Zelich | [The &eacute;tale comparison theorem](#talk-8) |
-| 4/1 | Vidhu Ahihetty | [q-de Rham and q-crystalline cohomology](#talk-9) |
-| 4/8 | Vidhu Ahihetty | [Kodaira Vanishing - Part I](#talk-10) |
+| 4/1 | Vidhu Adhihetty | [q-de Rham and q-crystalline cohomology](#talk-9) |
+| 4/8 | Vidhu Adhihetty | [Kodaira Vanishing - Part I](#talk-10) |
 | 4/15 | Ivan Zelich | [Kodaira Vanishing - Part II](#talk-11) |
 | 4/22 | Carlos Alvarado | [Prismatic cohomology via THH - Part I](#talk-12) |
 | 4/29 | Sangmin Ko | [Prismatic cohomology via THH - Part II](#talk-13) |
@@ -50,7 +54,7 @@ A more detailed plan of the seminar including topics for future talks and refere
 
 ### Talk 3
 * Title : Distinguished elements and prisms [(note)](/files/Prisms.pdf)
-* Abstract : The goal of this section is to introduce the notion of prisms. To work effectively with prisms, it will be useful to define the notion of distinguished elements of a delta ring, which are essentially elements that behave as if they vanish to order 1 with respect to the p-derivation. We will also need a better notion of completions along an ideal, since the classical notion does not behave well in this setting. This issue will be solved by introducing the technical notion of derived completeness
+* Abstract : The goal of this section is to introduce the notion of prisms. To work effectively with prisms, it will be useful to define the notion of distinguished elements of a delta ring, which are essentially elements that behave as if they vanish to order 1 with respect to the p-derivation. We will also need a better notion of completions along an ideal, since the classical notion does not behave well in this setting. This issue will be solved by introducing the technical notion of derived completeness.
 
 ### Talk 4
 * Title : Perfect prisms and perfectoid rings

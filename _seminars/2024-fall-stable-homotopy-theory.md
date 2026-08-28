@@ -2,6 +2,10 @@
 permalink: /seminars/2024-fall-stable-homotopy-theory
 title: "Seminar on Stable Homotopy Theory (Fall 2024)"
 author_profile: true
+short_title: "Seminar on Stable Homotopy Theory"
+term: "Fall 2024"
+term_start: 2024-09-09
+sole: true
 ---
 
 The goal of this seminar is to introduce the notion of spectra and study its basic properties. We will discuss equivalence between spectra and generalized cohomology theories, the smash product of spectra, Spanier–Whitehead duality, Atiyah duality, the Steenrod algebra, the Atiyah–Hirzebruch and Adams spectral sequences, and the relationship between stable homotopy and bordism of smooth manifolds.
@@ -16,8 +20,8 @@ This seminar is intended for graduate student. The participants are encouraged t
     - [Boa99] J.M. Boardman, Conditionally Convergent Spectral Sequences, 1999, [pdf](https://hopf.math.purdue.edu/Boardman/ccspseq.pdf)
     - [DP84] A.Dold and D.Puppe, Duality, trace and transfer, Proc. Steklov Inst. Math. 154 (1984), pp.85-103, [pdf](https://www.maths.ed.ac.uk/~v1ranick/papers/doldpup2.pdf)
     - [Dug22] D.Dugger, Stable categories and spectra via model categories, 2022, [pdf](https://pages.uoregon.edu/ddugger/spectra.pdf)
-    - [Koc96] S.O. Kochman, Bordism, stable homotopy and Adams spectral sequecnes, American Mathematical Society, 1996
-    - [MMSS00] M.A. Mandell, J.P. May, S.Schewde, B.Shipley, Model categories of diagram spectra, Proceedings of the London Mathematical 
+    - [Koc96] S.O. Kochman, Bordism, stable homotopy and Adams spectral sequences, American Mathematical Society, 1996
+    - [MMSS00] M.A. Mandell, J.P. May, S. Schwede, B.Shipley, Model categories of diagram spectra, Proceedings of the London Mathematical 
     Society Volume 82, Issue 2, 2000, [pdf](http://www.math.uchicago.edu/~may/PAPERS/mmssLMSDec30.pdf)
     - [Mal23] C. Malkiewich, Spectra and stable homotopy theory (draft version, first 6 chapters), [pdf](https://people.math.binghamton.edu/malkiewich/spectra_book_draft.pdf)
     - Math 8803 Stable homotopy theory (Spring 2015) taught by Kirsten Wickelgren, [course link](https://services.math.duke.edu/~kgw/8803_Stable/)
@@ -38,7 +42,7 @@ This seminar is intended for graduate student. The participants are encouraged t
 | 10/28 | Ivan Zelich | [An introduction to E_n-Algebras](#talk-8) |
 | 11/4 | - |  Academic Holiday (Election Day) |
 | 11/11 | Carlos Alvarado | [The Steenrod algebra and its dual](#talk-9) |
-| 11/18 | Carlos Alvarado | [The Adam spectral sequence](#talk-10) |
+| 11/18 | Carlos Alvarado | [The Adams spectral sequence](#talk-10) |
 | 11/25 | Sergey Nersisyan | [The Pontryagin–Thom construction](#talk-11) |
 | 12/2 | Sergey Nersisyan | [The classification of smooth manifolds up to cobordisms](#talk-12) |
 
@@ -54,8 +58,8 @@ This seminar is intended for graduate student. The participants are encouraged t
 * Abstract : In this talk, we will define the homotopy category of spectra and discuss its stability properties. We will prove that suspension induces a self-equivalence of the stable homotopy category. We will define (co)fiber sequence of spectra and construct the associated long exact sequences. We will explain how the stable homotopy category forms a triangulated category.
 
 ### Talk 3
-* Title : The smash prodcut
-* Abstract : This talk introduces the smash product in spectra, which provides a symmetric monoidal structure on both the category of spectra and its homotopy category. We will disuss its key properties and the definition of ring and module spectra. If time permits, we will also cover the point-set level construction using symmetric spectra.
+* Title : The smash product
+* Abstract : This talk introduces the smash product in spectra, which provides a symmetric monoidal structure on both the category of spectra and its homotopy category. We will discuss its key properties and the definition of ring and module spectra. If time permits, we will also cover the point-set level construction using symmetric spectra.
 
 ### Talk 4
 * Title : Homology, Cohomology and products
@@ -75,20 +79,20 @@ This seminar is intended for graduate student. The participants are encouraged t
 
 ### Talk 8
 * Title : An introduction to E_n-Algebras
-* We will give the formal definitions of E_n-Algebras and relate these to factorisation homology. If possible, we will see some applications to deformation theory.
+* Abstract : We will give the formal definitions of E_n-Algebras and relate these to factorisation homology. If possible, we will see some applications to deformation theory.
 
 ### Talk 9
 * Title : The Steenrod algebra and its dual
-* We will describe the Steenrod operations and the structure of its algebra and dual algebra. We will see some applications that arise from this.
+* Abstract : We will describe the Steenrod operations and the structure of its algebra and dual algebra. We will see some applications that arise from this.
 
 ### Talk 10
-* Title : The Adam spectral sequence
-* We will construct the Adams Spectral Sequence and show some example computations.
+* Title : The Adams spectral sequence
+* Abstract : We will construct the Adams Spectral Sequence and show some example computations.
 
 ### Talk 11
 * Title : The Pontryagin–Thom construction
-* I will briefly discuss bordism. Then I will talk about the Pontryagin-Thom construction and sketch a proof of the main theorem. Time permitting I will talk about applications
+* Abstract : I will briefly discuss bordism. Then I will talk about the Pontryagin-Thom construction and sketch a proof of the main theorem. Time permitting I will talk about applications.
 
 ### Talk 12
 * Title : The classification of smooth manifolds up to cobordisms
-* I will define the Thom spectrum and use it to compute the unoriented bordism ring. Time permitting, I will say a few words about the complex bordism ring
+* Abstract : I will define the Thom spectrum and use it to compute the unoriented bordism ring. Time permitting, I will say a few words about the complex bordism ring.
