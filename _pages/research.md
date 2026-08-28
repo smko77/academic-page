@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-I am braodly interested in homotopy theory and p-adic geometry. More specifically, I work in algebraic K-theory and chromatic homotopy theory.
+I am broadly interested in homotopy theory and p-adic geometry. More specifically, I work in algebraic K-theory and chromatic homotopy theory.
 
 At the moment, I am studying Waldhausen's chromatic convergence conjecture for K-theory via the Efimov K-theory of dualizable categories.
 
