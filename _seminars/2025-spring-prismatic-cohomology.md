@@ -5,7 +5,7 @@ author_profile: true
 short_title: "Seminar on Prismatic Cohomology"
 term: "Spring 2025"
 term_start: 2025-01-28
-organizers: "Vidhu Adhihetty"
+organizers: "[Vidhu Adhihetty](https://vidhuadhihetty.github.io/index.html)"
 ---
 
 The goal of this seminar is to give an introduction to prismatic cohomology, a p-adic cohomology theory developed by Bhatt and Scholze. We will mainly follow [Bha18] and [BS22]. 

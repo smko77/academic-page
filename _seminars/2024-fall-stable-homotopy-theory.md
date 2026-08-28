@@ -5,7 +5,6 @@ author_profile: true
 short_title: "Seminar on Stable Homotopy Theory"
 term: "Fall 2024"
 term_start: 2024-09-09
-sole: true
 ---
 
 The goal of this seminar is to introduce the notion of spectra and study its basic properties. We will discuss equivalence between spectra and generalized cohomology theories, the smash product of spectra, Spanier–Whitehead duality, Atiyah duality, the Steenrod algebra, the Atiyah–Hirzebruch and Adams spectral sequences, and the relationship between stable homotopy and bordism of smooth manifolds.
