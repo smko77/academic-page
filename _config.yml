@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sangmin Ko"
 title_separator          : "-"
 name                     : &name "Sangmin Ko"
-description              : &description "math Ph.D. student at Columbia University"
+description              : &description "PhD student in mathematics at Columbia University, working on chromatic homotopy theory and algebraic K-theory"
 url                      : https://smko77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smko77/smko77.github.io"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sangmin Ko"
-  pronouns         : # example: "she/her"  
-  bio              : "Math Ph.D. student at Columbia University"
+  pronouns         : # example: "she/her"
+  bio              : "PhD student in mathematics at Columbia University"
   location         : "New York"
-  employer         : 
+  employer         : "Columbia University"
   uri              : # URL
   email            : "sk4682@columbia.edu" 
 
